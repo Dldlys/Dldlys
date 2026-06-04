@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Central South University of Forestry and Technology.
+- 🔭 I’m currently studing on Central South University of Forestry and Technology.
 - 🌱 I’m currently learning Ptrhon.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
